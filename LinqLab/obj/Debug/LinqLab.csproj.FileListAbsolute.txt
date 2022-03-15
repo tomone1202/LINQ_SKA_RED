@@ -1,0 +1,26 @@
+R:\LinqLab\LinqLab\bin\Debug\LinqLab.exe.config
+R:\LinqLab\LinqLab\bin\Debug\LinqLab.exe
+R:\LinqLab\LinqLab\bin\Debug\LinqLab.pdb
+R:\LinqLab\LinqLab\obj\Debug\LinqLab.csprojResolveAssemblyReference.cache
+R:\LinqLab\LinqLab\obj\Debug\LinqLab.exe
+R:\LinqLab\LinqLab\obj\Debug\LinqLab.pdb
+R:\LinqLab\LinqLab\bin\Debug\ExpectedObjects.dll
+D:\SKA\LinqSKA\LinqPractice\LinqLab\bin\Debug\LinqLab.exe.config
+D:\SKA\LinqSKA\LinqPractice\LinqLab\bin\Debug\LinqLab.exe
+D:\SKA\LinqSKA\LinqPractice\LinqLab\bin\Debug\LinqLab.pdb
+D:\SKA\LinqSKA\LinqPractice\LinqLab\bin\Debug\ExpectedObjects.dll
+D:\SKA\LinqSKA\LinqPractice\LinqLab\obj\Debug\LinqLab.csprojAssemblyReference.cache
+D:\SKA\LinqSKA\LinqPractice\LinqLab\obj\Debug\LinqLab.csproj.CoreCompileInputs.cache
+D:\SKA\LinqSKA\LinqPractice\LinqLab\obj\Debug\LinqLab.csproj.CopyComplete
+D:\SKA\LinqSKA\LinqPractice\LinqLab\obj\Debug\LinqLab.exe
+D:\SKA\LinqSKA\LinqPractice\LinqLab\obj\Debug\LinqLab.pdb
+D:\LinQ SKA\LinqLab\bin\Debug\LinqLab.exe.config
+D:\LinQ SKA\LinqLab\bin\Debug\LinqLab.exe
+D:\LinQ SKA\LinqLab\bin\Debug\LinqLab.pdb
+D:\LinQ SKA\LinqLab\bin\Debug\ExpectedObjects.dll
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.csproj.AssemblyReference.cache
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.csproj.SuggestedBindingRedirects.cache
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.csproj.CoreCompileInputs.cache
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.csproj.CopyComplete
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.exe
+D:\LinQ SKA\LinqLab\obj\Debug\LinqLab.pdb
